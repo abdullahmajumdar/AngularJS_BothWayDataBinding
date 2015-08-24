@@ -1,2 +1,2 @@
-# BootstrapLandingPage
-A Twitter Bootstrap Web Landing Page developed when I take an training course and anyone can use the source code.
+# AngularJS_BothWayDataBinding
+Both way data binding sample page developed when I take a training course and anyone can use the source code.
